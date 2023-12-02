@@ -1,3 +1,8 @@
+---
+title: Server Side Rendering (SSR)
+publish: true
+---
+
 Rendering components on the server side (Server Component) - it is default behaviour in NextJS
 
 Benefits of Server Side Rendering (SSR) Components:

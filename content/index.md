@@ -1,9 +1,7 @@
 ---
-title: NextJS index
+title: NextJS
 publish: true
 ---
-
-# NextJS
 
 [The Project GitHub DevthomasOverflow](https://github.com/Fremen1990/devthomas-overflow)
 [The Project Table](https://github.com/users/Fremen1990/projects/6/views/1?pane=issue&itemId=45939795)

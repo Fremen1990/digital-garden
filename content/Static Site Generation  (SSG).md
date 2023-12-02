@@ -1,3 +1,8 @@
+---
+title: Static Site Generation (SSG)
+publish: true
+---
+
 Static Site Generation (SSG) happens at build time on the server.
 
 During build process, content is generated and converted into HTML, CSS and JavaScript files. It doesn't require server interaction during runtime. The generated static files can be hosted on content delivery network (CDN) and then served to the client as it is.

@@ -1,6 +1,8 @@
 ---
+title: Server Or Client Graph
 excalidraw-plugin: parsed
 tags: [excalidraw]
+publish: false
 ---
 
 ==⚠ Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
