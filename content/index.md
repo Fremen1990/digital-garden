@@ -47,7 +47,7 @@ Three NextJS rendering strategies:
 
 - [[Static Site Generation  (SSG)]]
 - [[Incremental Static Generation (ISG)]]
-- ***
+- [[Server Side Rendering (SSR)]]
 
   ***
 
