@@ -1,15 +1,15 @@
 {
-  "name": "@jackyzha0/quartz",
-  "description": "🌱 publish your digital garden and notes as a website",
+  "name": "digital-garden",
+  "description": "🌱 DevGarden - digital garden and notes for programming education",
   "private": true,
-  "version": "4.1.1",
+  "version": "0.1.0",
   "type": "module",
-  "author": "jackyzha0 <j.zhao2k19@gmail.com>",
+  "author": "DevThomas",
   "license": "MIT",
-  "homepage": "https://quartz.jzhao.xyz",
+  "homepage": "https://fremen1990.github.io/digital-garden",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jackyzha0/quartz.git"
+    "url": "https://github.com/Fremen1990/digital-garden.git"
   },
   "scripts": {
     "docs": "npx quartz build --serve -d docs",
