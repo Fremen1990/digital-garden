@@ -3,7 +3,7 @@ title: Server Side Rendering (SSR)
 publish: true
 ---
 
-Dynamic rendering in a nutshell enables the generation of dynamic content for each request, providing fresh and interactive experiences. 
+Dynamic rendering in a nutshell enables the generation of dynamic content for each request, providing fresh and interactive experiences.
 
 If we have SSG and ISG, why we need SSR??
 
@@ -21,7 +21,7 @@ However we can easily switch to [[Incremental Static Generation (ISG)]] od [[Ser
 
 ![Server Side Rendering (SSR)-1701519541235.jpeg](Server%20Side%20Rendering%20%28SSR%29-1701519541235.jpeg)
 
------
+---
 
 Rendering components on the server side (Server Component) - it is default behavior's in NextJS
 
